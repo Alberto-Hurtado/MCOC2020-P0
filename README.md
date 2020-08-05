@@ -1,5 +1,5 @@
 # MCOC2020-P0
-**Modelo
+*Modelo
   *Modelo: Acer Nitro 5 AN515-52
   *Año: 2020
 *Procesador
