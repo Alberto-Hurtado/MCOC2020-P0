@@ -53,8 +53,14 @@ Proveedor internet: VTR Banda Ancha S.A.
 # Desempeño MATMUL
 
 1.- La forma base del grafico adjunto (Grafico 1) no difiere mucho de la del profesor, a diferencia que los procesos evaluados en mi computador, demoran menos en relacion a los del profesor.
+
 2.- Esto puede ser porque cuando hice estos procesos, fuera de los procesos basicos, no habia ningun otro proceso corriendo en el computador.
+
 3.-
+
 4.- Python 3.8
+
 5.- NumPy 1.19.1
+
 6.- Se adjunta imagen del uso de procesadores. (Foto 1)
+
