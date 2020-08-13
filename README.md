@@ -64,3 +64,8 @@ Proveedor internet: VTR Banda Ancha S.A.
 
 6.- Se adjunta imagen del uso de procesadores. (Foto 1)
 
+# Desempeño de INV
+1.- Yo creo que el algoritmo usado es el "Método de Newton", ya que es el único que se muestra de forma iterativa, lo que es mucho más eficiente para un computador resolver númericamente.
+
+2.- Incide en la capacidad que tiene cada procesador de almacenar memoria, ya que si la matriz excede el tamaño de memoria del procesador, esta tendrá que ser almacenada en la RAM y si tampoco cabe en la RAM, esta tendría que ser alacenada en el disco duro, lo que haría muchisimo más lento el proceso.
+
