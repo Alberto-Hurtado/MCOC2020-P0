@@ -69,3 +69,7 @@ Proveedor internet: VTR Banda Ancha S.A.
 
 2.- Incide en la capacidad que tiene cada procesador de almacenar memoria, ya que si la matriz excede el tamaño de memoria del procesador, esta tendrá que ser almacenada en la RAM y si tampoco cabe en la RAM, esta tendría que ser alacenada en el disco duro, lo que haría muchisimo más lento el proceso.
 
+# Entrega 6
+Por lo visto en el grafico de desempeño de Ax = b se ve una mejor consistencia y mejor desempeño en el caso que se asume en que la matriz es definida positiva y sobre escribiendo la matriz A (assume_a='pos' , overwrite_a=True).
+La diferencia apreciada entre sobre escribir la matriz y no hacerlo, en el caso de la matriz de N=10000, es de casi 1 ms, por lo que podría decir que es una diferencia despreciable con relacion a los otros casos.
+Curiosamente en el caso de sobre escribir solo el vector b, el desempeño empeora con relacion a la misma funcion con los parametros predeterminados.
