@@ -73,3 +73,12 @@ Proveedor internet: VTR Banda Ancha S.A.
 Por lo visto en el grafico de desempeño de Ax = b se ve una mejor consistencia y mejor desempeño en el caso que se asume en que la matriz es definida positiva y sobre escribiendo la matriz A (assume_a='pos' , overwrite_a=True).
 La diferencia apreciada entre sobre escribir la matriz y no hacerlo, en el caso de la matriz de N=10000, es de casi 1 ms, por lo que podría decir que es una diferencia despreciable con relacion a los otros casos.
 Curiosamente en el caso de sobre escribir solo el vector b, el desempeño empeora con relacion a la misma funcion con los parametros predeterminados.
+
+# Entrega 7
+1.- El uso de matrices dispersas tiene un claro beneficio sobre las matrices llenas despues de los ~300 elementos, viendose una disminucion en el tiempo requerido para los calculos.
+
+2.- Al ver en mas detalle los graficos, se puede apreciar que son cuadraticamente asintóticos en casi todos los casos. Los casos de linalg.solve o linalg.inv para las matrices llenas se puede apreciar una mayor cercanía con el orden cúbico.
+
+3.- 
+
+4.- 
